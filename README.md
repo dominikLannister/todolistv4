@@ -1,5 +1,5 @@
 # todolist
-
+ app to add own task to do
 ## Project setup
 ```
 npm install
